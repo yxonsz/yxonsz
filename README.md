@@ -35,3 +35,9 @@
     <img src="https://github-readme-stats.vercel.app/api?username=yxonsz&bg_color=180,00000000,&title_color=000000&text_color=000000"/> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yxonsz&layout=compact&bg_color=180,00000000,&title_color=000000&text_color=000000"/> 
 </div>
+
+<div align="center">
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=yxonsz&utm_content=farm">
+    <img src="https://render.gitanimals.org/farms/yxonsz" width="600" height="300" />
+  </a>
+</div>
