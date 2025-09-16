@@ -32,9 +32,12 @@
 
 <div align="center" style="color: #c9d1d9; font-size: 24px; font-weight: bold;"> 🏅 Stats </div> <br>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=yxonsz&bg_color=180,00000000,&title_color=000000&text_color=000000"/> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yxonsz&layout=compact&bg_color=180,00000000,&title_color=000000&text_color=000000"/> 
+    <img src="https://github-readme-stats.vercel.app/api?username=yxonsz&show_icons=true&theme=radical"/> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yxonsz&layout=compact&theme=radical"/> 
 </div>
+
+
+
 
 <div align="center" style="color: #c9d1d9; font-size: 24px; font-weight: bold;"> <br> ❣️ Git Animals </div> <br>
 <div align="center">
