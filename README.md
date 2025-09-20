@@ -27,12 +27,6 @@
     <a href="https://velog.io/@ye0n_s3/posts">
         <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white">
     </a>
-
-<a href="https://mail.naver.com/write?to=yxxn_su@naver.com">
-  <img src="https://img.shields.io/badge/Naver%20Mail-03C75A?style=flat&logo=Naver&logoColor=white">
-    </a>
-
-
 </div>
 
 <br>
