@@ -26,10 +26,6 @@
 
 <br>
 
-<h2 align="center" style="color: #c9d1d9; font-size: 40px; font-weight: bold;"> 🏅 Stats </h2>
-
-<br>
-
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=yxonsz&show_icons=true&theme=radical"/> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yxonsz&layout=compact&theme=radical"/> 
