@@ -11,7 +11,7 @@
 
 <h4 align="center">🎨 Frontend</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,flutter" />
 </p>
 
 <h4 align="center">🛠️ Tools</h4>
