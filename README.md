@@ -6,12 +6,12 @@
 
 <h4 align="center">💻 Backend</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,c" />
+  <img src="https://skillicons.dev/icons?i=java,c,python" />
 </p>
 
 <h4 align="center">🎨 Frontend</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css" />
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
 <h4 align="center">🛠️ Tools</h4>
