@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" />
+</p>
+
 <!-- 타이핑 애니메이션 자기소개 -->
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -17,25 +21,12 @@
 </p>
 <h4 align="center">🛠️ Tools</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=idea,vscode,notion" />
+  <img src="https://skillicons.dev/icons?i=github,idea,vscode,notion" />
 </p>
 <h4 align="center">🎨 Design</h4>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=figma,ps" />
 </p>
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yxonsz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c4ff&icon_color=00c4ff&text_color=c9d1d9" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yxonsz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c4ff&text_color=c9d1d9" width="40%" />
-</p>
-
-<!-- 스트릭 -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=yxonsz&theme=tokyonight&hide_border=true&background=0d1117&ring=00c4ff&fire=00c4ff&currStreakLabel=00c4ff" width="60%" />
-</p>
-
 
 <!-- Git Animals -->
 <h2 align="center">❣️ Git Animals</h2>
