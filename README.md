@@ -1,10 +1,9 @@
 <!-- 타이핑 애니메이션 자기소개 -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!+%F0%9F%A5%B0" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=600&size=45&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=80&lines=Welcome+to+my+GitHub!+%F0%9F%A5%B0" alt="Typing SVG" />
   </a>
 </p>
-
 
 <h2 align="center">🛠️ Tech Stacks</h2>
 
